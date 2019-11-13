@@ -1,0 +1,1 @@
+python /root/scripts/lcd/lcd.py -a 0x27 --line1="  Bat 90%" --line2="T.Ex:21.4*C Rh:62.6%CO:" --line3="T.In:21*C   Rh:65.6%"
